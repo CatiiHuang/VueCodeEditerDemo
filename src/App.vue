@@ -55,8 +55,8 @@ const codeEditerConfig = reactive({
   }
   .edit-area {
     display: flex;
-    width: 1000px;
-    height: 600px;
+    width: 1400px;
+    height: 800px;
     .edit-box {
       width: 50%;
       box-sizing: border-box;
